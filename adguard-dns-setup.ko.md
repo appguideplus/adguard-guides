@@ -14,7 +14,7 @@
 
 기존 DNS 값을 기록한 뒤 설정 → 네트워크 및 인터넷 → 고급 → 비공개 DNS를 엽니다. 제조사에 따라 메뉴 이름이 다르면 설정 검색에서 비공개 DNS를 찾으세요.
 
-비공개 DNS 공급자 호스트 이름을 선택하고 기본 차단 서버 dns.adguard-dns.com을 입력한 뒤 저장합니다. 이 칸에는 IP 주소나 https://를 넣지 않습니다. 가족 보호 서버는 family.adguard-dns.com, 비필터링 서버는 unfiltered.adguard-dns.com입니다.
+비공개 DNS 공급자 호스트 이름을 선택하고 기본 차단 서버 dns.adguard-dns.com을 입력한 뒤 저장합니다. 이 칸에는 IP 주소나 `https://`를 넣지 않습니다. 가족 보호 서버는 family.adguard-dns.com, 비필터링 서버는 unfiltered.adguard-dns.com입니다.
 
 ## Windows에서 공개 DNS 설정
 
