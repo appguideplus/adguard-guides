@@ -36,14 +36,14 @@ VPN 연결이 모든 사이트의 접속이나 일정한 속도를 보장하지�
 
 | 기기·설치 형식 | 설치 안내 |
 | --- | --- |
-| Windows 설치 파일 (.exe) | [해당 기기의 설치 링크](https://appguideplus.com/ko/adguard-vpn/#downloads) |
-| Mac 설치 파일 (.dmg) | [해당 기기의 설치 링크](https://appguideplus.com/ko/adguard-vpn/#downloads) |
-| Android 앱 설치 안내 | [해당 기기의 설치 링크](https://appguideplus.com/ko/adguard-vpn/#downloads) |
-| iPhone·iPad 앱 설치 안내 | [해당 기기의 설치 링크](https://appguideplus.com/ko/adguard-vpn/#downloads) |
-| Edge 확장 설치 | [해당 기기의 설치 링크](https://appguideplus.com/ko/adguard-vpn/#downloads) |
-| Firefox 확장 설치 | [해당 기기의 설치 링크](https://appguideplus.com/ko/adguard-vpn/#downloads) |
-| Chrome 확장 설치 | [해당 기기의 설치 링크](https://appguideplus.com/ko/adguard-vpn/#downloads) |
-| Opera 확장 설치 | [해당 기기의 설치 링크](https://appguideplus.com/ko/adguard-vpn/#downloads) |
+| Windows 설치 파일 (.exe) | [해당 기기의 설치 링크](https://appguideplus.com/ko/adguard-vpn/setup/#downloads) |
+| Mac 설치 파일 (.dmg) | [해당 기기의 설치 링크](https://appguideplus.com/ko/adguard-vpn/setup/#downloads) |
+| Android 앱 설치 안내 | [해당 기기의 설치 링크](https://appguideplus.com/ko/adguard-vpn/setup/#downloads) |
+| iPhone·iPad 앱 설치 안내 | [해당 기기의 설치 링크](https://appguideplus.com/ko/adguard-vpn/setup/#downloads) |
+| Edge 확장 설치 | [해당 기기의 설치 링크](https://appguideplus.com/ko/adguard-vpn/setup/#downloads) |
+| Firefox 확장 설치 | [해당 기기의 설치 링크](https://appguideplus.com/ko/adguard-vpn/setup/#downloads) |
+| Chrome 확장 설치 | [해당 기기의 설치 링크](https://appguideplus.com/ko/adguard-vpn/setup/#downloads) |
+| Opera 확장 설치 | [해당 기기의 설치 링크](https://appguideplus.com/ko/adguard-vpn/setup/#downloads) |
 
 운영체제용 앱과 브라우저 확장은 적용 범위가 다릅니다. 연결한 웹 안내의 설치 링크는 제휴 링크이며, 이용에 따라 AppGuide+ 운영자가 수수료를 받을 수 있습니다.
 
