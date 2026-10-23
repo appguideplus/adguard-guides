@@ -1,8 +1,16 @@
+![AppGuide+ ADGUARD](cover.svg)
+
+[이 분야의 안내](README.md) · [AppGuide+](https://github.com/appguideplus/app-guides#readme)
+
 # AdGuard VPN 사용법: 광고차단 앱과의 차이·함께 사용하기
 
 광고를 차단하는 AdGuard 앱과 VPN은 목적이 다릅니다. 사용할 기기와 앱의 연결 범위를 확인하고, Android에서 함께 쓸 때는 통합 모드 안내를 따르세요.
 
-[전체 가이드](README.md) · [웹에서 보기](https://appguideplus.com/ko/adguard-vpn/)
+**[웹사이트에서 안내 보기 →](https://appguideplus.com/ko/adguard-vpn/?utm_source=github)**
+
+일부 웹 안내에는 제휴 링크가 포함됩니다. 해당 링크를 통한 구매·가입으로 운영자가 수수료를 받을 수 있습니다. AppGuide+는 독립 가이드입니다.
+
+---
 
 ## 어떤 연결에 사용할 건가요?
 
@@ -10,6 +18,9 @@
 | --- | --- | --- |
 | 컴퓨터·휴대폰의 앱 | 운영체제용 VPN | 공식 앱에서 연결 상태와 필요한 서버 위치를 확인하세요. |
 | 특정 브라우저 | VPN 브라우저 확장 | 설치한 브라우저의 연결과 다른 앱의 연결을 구분하세요. |
+
+<details>
+<summary><strong>핵심 정보</strong></summary>
 
 ## 핵심 정보
 
@@ -19,11 +30,21 @@
 | 시작 방법 | 기기용 앱 · 브라우저 확장 |
 | Android 병행 | 통합 모드 확인 |
 
+</details>
+
+<details>
+<summary><strong>광고차단과 VPN을 함께 쓸 때</strong></summary>
+
 ## 광고차단과 VPN을 함께 쓸 때
 
 Android에서는 두 앱의 동작 방식이 충돌하지 않도록 AdGuard가 제공하는 통합 모드를 확인해야 합니다. 다른 운영체제에 같은 설정 경로를 그대로 적용하지 마세요.
 
 VPN 연결이 모든 사이트의 접속이나 일정한 속도를 보장하지는 않습니다. 무료·유료 이용 범위와 기기 수는 현재 공식 상품 화면에서 비교하세요.
+
+</details>
+
+<details>
+<summary><strong>이용 순서</strong></summary>
 
 ## 이용 순서
 
@@ -32,20 +53,30 @@ VPN 연결이 모든 사이트의 접속이나 일정한 속도를 보장하지�
 3. 광고차단 앱과 함께 쓰는 Android 기기는 공식 통합 모드 안내를 확인합니다.
 4. 자주 쓰는 사이트와 앱의 정상 동작을 확인합니다.
 
+</details>
+
+<details>
+<summary><strong>기기별 설치 선택</strong></summary>
+
 ## 기기별 설치 선택
 
 | 기기·설치 형식 | 설치 안내 |
 | --- | --- |
-| Windows 설치 파일 (.exe) | [해당 기기의 설치 링크](https://appguideplus.com/ko/adguard-vpn/setup/#downloads) |
-| Mac 설치 파일 (.dmg) | [해당 기기의 설치 링크](https://appguideplus.com/ko/adguard-vpn/setup/#downloads) |
-| Android 앱 설치 안내 | [해당 기기의 설치 링크](https://appguideplus.com/ko/adguard-vpn/setup/#downloads) |
-| iPhone·iPad 앱 설치 안내 | [해당 기기의 설치 링크](https://appguideplus.com/ko/adguard-vpn/setup/#downloads) |
-| Edge 확장 설치 | [해당 기기의 설치 링크](https://appguideplus.com/ko/adguard-vpn/setup/#downloads) |
-| Firefox 확장 설치 | [해당 기기의 설치 링크](https://appguideplus.com/ko/adguard-vpn/setup/#downloads) |
-| Chrome 확장 설치 | [해당 기기의 설치 링크](https://appguideplus.com/ko/adguard-vpn/setup/#downloads) |
-| Opera 확장 설치 | [해당 기기의 설치 링크](https://appguideplus.com/ko/adguard-vpn/setup/#downloads) |
+| Windows 설치 파일 (.exe) | [해당 기기의 설치 링크](https://appguideplus.com/ko/adguard-vpn/setup/?utm_source=github#downloads) |
+| Mac 설치 파일 (.dmg) | [해당 기기의 설치 링크](https://appguideplus.com/ko/adguard-vpn/setup/?utm_source=github#downloads) |
+| Android 앱 설치 안내 | [해당 기기의 설치 링크](https://appguideplus.com/ko/adguard-vpn/setup/?utm_source=github#downloads) |
+| iPhone·iPad 앱 설치 안내 | [해당 기기의 설치 링크](https://appguideplus.com/ko/adguard-vpn/setup/?utm_source=github#downloads) |
+| Edge 확장 설치 | [해당 기기의 설치 링크](https://appguideplus.com/ko/adguard-vpn/setup/?utm_source=github#downloads) |
+| Firefox 확장 설치 | [해당 기기의 설치 링크](https://appguideplus.com/ko/adguard-vpn/setup/?utm_source=github#downloads) |
+| Chrome 확장 설치 | [해당 기기의 설치 링크](https://appguideplus.com/ko/adguard-vpn/setup/?utm_source=github#downloads) |
+| Opera 확장 설치 | [해당 기기의 설치 링크](https://appguideplus.com/ko/adguard-vpn/setup/?utm_source=github#downloads) |
 
 운영체제용 앱과 브라우저 확장은 적용 범위가 다릅니다. 연결한 웹 안내의 설치 링크는 제휴 링크이며, 이용에 따라 AppGuide+ 운영자가 수수료를 받을 수 있습니다.
+
+</details>
+
+<details>
+<summary><strong>자주 묻는 질문</strong></summary>
 
 ## 자주 묻는 질문
 
@@ -57,9 +88,19 @@ VPN 연결이 모든 사이트의 접속이나 일정한 속도를 보장하지�
 
 브라우저 확장과 운영체제용 앱은 연결 범위가 다릅니다. 다른 프로그램까지 같은 방식으로 동작한다고 가정하지 마세요.
 
+</details>
+
+<details>
+<summary><strong>단계별 가이드</strong></summary>
+
 ## 단계별 가이드
 
 - [AdGuard VPN 설치와 Android 통합 모드](adguard-vpn-setup.ko.md)
+
+</details>
+
+<details>
+<summary><strong>함께 볼 안내</strong></summary>
 
 ## 함께 볼 안내
 
@@ -67,6 +108,11 @@ VPN 연결이 모든 사이트의 접속이나 일정한 속도를 보장하지�
 - [AdGuard DNS 설정: 무료 공개 DNS와 개인용 DNS 비교](adguard-dns.ko.md)
 - [Proton VPN 무료·Plus 비교: 기기 수와 서버 선택](https://github.com/appguideplus/vpn-security-guides/blob/main/proton-vpn.ko.md)
 - [NordVPN 요금제 선택: 결제 기간·갱신·기기 수 안내](https://github.com/appguideplus/vpn-security-guides/blob/main/nordvpn.ko.md)
+
+</details>
+
+<details>
+<summary><strong>출처와 확인일</strong></summary>
 
 ## 출처와 확인일
 
@@ -76,3 +122,11 @@ VPN 연결이 모든 사이트의 접속이나 일정한 속도를 보장하지�
 내용 확인일: 2026-09-14. GitHub판 편집일: 2026-09-14.
 
 AppGuide+가 작성한 독립적인 이용 안내이며, 각 서비스의 공식 고객지원 문서는 아닙니다.
+
+</details>
+
+---
+
+[웹 안내로 이어가기](https://appguideplus.com/ko/adguard-vpn/?utm_source=github) · [다른 안내 고르기](README.md)
+
+읽기 구성 정리: 2026-10-23.

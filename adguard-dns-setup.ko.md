@@ -1,8 +1,16 @@
+![AppGuide+ ADGUARD](cover.svg)
+
+[이 분야의 안내](README.md) · [AppGuide+](https://github.com/appguideplus/app-guides#readme)
+
 # AdGuard DNS 설정: Android 호스트 이름과 Windows 주소
 
 먼저 한 기기에서 설정을 확인한 뒤 필요한 범위로 확대하세요. 공유기의 DNS를 바꾸면 같은 네트워크의 다른 기기에도 영향을 줄 수 있습니다.
 
-[AdGuard DNS](adguard-dns.ko.md) · [전체 가이드](README.md) · [웹에서 보기](https://appguideplus.com/ko/adguard-dns/setup/)
+**[웹사이트에서 안내 보기 →](https://appguideplus.com/ko/adguard-dns/setup/?utm_source=github)**
+
+일부 웹 안내에는 제휴 링크가 포함됩니다. 해당 링크를 통한 구매·가입으로 운영자가 수수료를 받을 수 있습니다. AppGuide+는 독립 가이드입니다.
+
+---
 
 ## 서버 종류를 선택
 
@@ -10,11 +18,19 @@
 
 개인용 DNS는 기기별 설정과 통계 등 관리 기능을 검토할 때 선택합니다. 현재 플랜의 기기·요청 한도도 확인하세요.
 
+<details>
+<summary><strong>Android에서 공개 DNS 설정</strong></summary>
+
 ## Android에서 공개 DNS 설정
 
 기존 DNS 값을 기록한 뒤 설정 → 네트워크 및 인터넷 → 고급 → 비공개 DNS를 엽니다. 제조사에 따라 메뉴 이름이 다르면 설정 검색에서 비공개 DNS를 찾으세요.
 
 비공개 DNS 공급자 호스트 이름을 선택하고 기본 차단 서버 dns.adguard-dns.com을 입력한 뒤 저장합니다. 이 칸에는 IP 주소나 `https://`를 넣지 않습니다. 가족 보호 서버는 family.adguard-dns.com, 비필터링 서버는 unfiltered.adguard-dns.com입니다.
+
+</details>
+
+<details>
+<summary><strong>Windows에서 공개 DNS 설정</strong></summary>
 
 ## Windows에서 공개 DNS 설정
 
@@ -22,11 +38,21 @@
 
 기존 값을 기록하고 다음 DNS 서버 주소 사용을 선택합니다. 기본 차단 서버의 기본 설정 DNS에는 94.140.14.14, 보조 DNS에는 94.140.15.15를 입력하고 확인합니다. IPv6를 사용하는 연결은 아래 공식 안내의 IPv6 주소도 함께 확인하세요.
 
+</details>
+
+<details>
+<summary><strong>공개 DNS와 개인용 주소 구분</strong></summary>
+
 ## 공개 DNS와 개인용 주소 구분
 
 위 주소는 누구나 사용할 수 있는 공개 서버입니다. 개인용 AdGuard DNS를 설정하려면 자신의 대시보드에서 기기를 추가하고 해당 기기에 발급된 주소를 사용합니다. 공개 서버 주소를 넣는 것만으로 개인 대시보드에 연결되는 것은 아닙니다.
 
 iPhone·iPad와 공유기는 설정 방식이 다릅니다. 아래 기기별 공개 DNS 설정에서 자신의 기기를 선택하세요. 공유기를 바꾸기 전에 한 기기에서 먼저 확인하면 문제 범위를 좁히기 쉽습니다.
+
+</details>
+
+<details>
+<summary><strong>실제 요청이 적용되는지 확인</strong></summary>
 
 ## 실제 요청이 적용되는지 확인
 
@@ -34,15 +60,30 @@ iPhone·iPad와 공유기는 설정 방식이 다릅니다. 아래 기기별 공
 
 DNS 차단과 웹페이지의 광고 요소를 정리하는 기능은 다릅니다. 일부 광고가 남았다고 곧바로 설정 실패로 판단하지 마세요.
 
+</details>
+
+<details>
+<summary><strong>사이트가 열리지 않을 때</strong></summary>
+
 ## 사이트가 열리지 않을 때
 
 특정 도메인만 문제인지 전체 연결 문제인지 구분합니다. 신뢰하는 사이트의 오차단이라면 개인용 DNS의 규칙과 해당 공식 도움말을 확인하세요.
 
 원인 확인이 어렵다면 기록한 이전 설정으로 되돌린 뒤 공식 지원에 문의합니다. 사이트 안전 경고를 해제하도록 유도하는 외부 안내는 따르지 마세요.
 
+</details>
+
+<details>
+<summary><strong>함께 볼 안내</strong></summary>
+
 ## 함께 볼 안내
 
 - [AdGuard DNS 설정: 무료 공개 DNS와 개인용 DNS 비교](adguard-dns.ko.md)
+
+</details>
+
+<details>
+<summary><strong>출처와 확인일</strong></summary>
 
 ## 출처와 확인일
 
@@ -52,3 +93,11 @@ DNS 차단과 웹페이지의 광고 요소를 정리하는 기능은 다릅니�
 내용 확인일: 2026-09-14. GitHub판 편집일: 2026-09-14.
 
 AppGuide+가 작성한 독립적인 이용 안내이며, 각 서비스의 공식 고객지원 문서는 아닙니다.
+
+</details>
+
+---
+
+[웹 안내로 이어가기](https://appguideplus.com/ko/adguard-dns/setup/?utm_source=github) · [다른 안내 고르기](README.md)
+
+읽기 구성 정리: 2026-10-23.

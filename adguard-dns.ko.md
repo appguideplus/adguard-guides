@@ -1,8 +1,16 @@
+![AppGuide+ ADGUARD](cover.svg)
+
+[이 분야의 안내](README.md) · [AppGuide+](https://github.com/appguideplus/app-guides#readme)
+
 # AdGuard DNS 설정: 무료 공개 DNS와 개인용 DNS 비교
 
 브라우저 확장과 달리 DNS 설정은 연결하려는 도메인을 기준으로 동작합니다. 간단한 공개 서버를 쓸지, 개인용 관리 화면에서 기기별 규칙을 정할지 선택하세요.
 
-[전체 가이드](README.md) · [웹에서 보기](https://appguideplus.com/ko/adguard-dns/)
+**[웹사이트에서 안내 보기 →](https://appguideplus.com/ko/adguard-dns/?utm_source=github)**
+
+일부 웹 안내에는 제휴 링크가 포함됩니다. 해당 링크를 통한 구매·가입으로 운영자가 수수료를 받을 수 있습니다. AppGuide+는 독립 가이드입니다.
+
+---
 
 ## 기본 차단인가요, 개별 관리인가요?
 
@@ -10,6 +18,9 @@
 | --- | --- | --- |
 | 간단히 시작 | 공개 AdGuard DNS | 공식 공개 서버의 기본·비필터링·가족 보호 옵션을 구분하세요. |
 | 기기와 규칙 관리 | 개인용 AdGuard DNS | 개별 설정·통계·필터링 관리가 필요하다면 현재 플랜과 한도를 확인하세요. |
+
+<details>
+<summary><strong>핵심 정보</strong></summary>
 
 ## 핵심 정보
 
@@ -19,11 +30,21 @@
 | 선택지 | 공개 DNS · 개인용 DNS |
 | 적용 전 | 기기·공유기 설정 확인 |
 
+</details>
+
+<details>
+<summary><strong>브라우저 광고차단과는 범위가 다릅니다</strong></summary>
+
 ## 브라우저 광고차단과는 범위가 다릅니다
 
 DNS 필터링은 도메인 요청을 기준으로 작동합니다. 웹페이지 안의 특정 요소를 정리하는 광고차단 앱과 같지 않으며, VPN 터널 자체를 제공하는 기능도 아닙니다.
 
 공유기에 적용하면 연결된 다른 기기에 영향을 줄 수 있습니다. 먼저 한 기기에서 정상 동작을 확인하고 이전 DNS 설정을 기록하세요.
+
+</details>
+
+<details>
+<summary><strong>이용 순서</strong></summary>
 
 ## 이용 순서
 
@@ -31,6 +52,11 @@ DNS 필터링은 도메인 요청을 기준으로 작동합니다. 웹페이지 
 2. 공식 설정 안내에서 자신의 기기나 공유기를 선택합니다.
 3. 기존 값을 기록한 뒤 정확한 서버 종류와 주소를 확인합니다.
 4. 일상적으로 쓰는 사이트가 열리는지 확인하고 예외가 필요하면 해당 기능을 검토합니다.
+
+</details>
+
+<details>
+<summary><strong>자주 묻는 질문</strong></summary>
 
 ## 자주 묻는 질문
 
@@ -42,9 +68,19 @@ DNS 필터링은 도메인 요청을 기준으로 작동합니다. 웹페이지 
 
 도메인과 지원되는 검색·서비스 설정을 기반으로 합니다. 모든 콘텐츠를 완벽하게 분류하거나 보호한다고 보장할 수 없습니다.
 
+</details>
+
+<details>
+<summary><strong>단계별 가이드</strong></summary>
+
 ## 단계별 가이드
 
 - [AdGuard DNS 설정: Android 호스트 이름과 Windows 주소](adguard-dns-setup.ko.md)
+
+</details>
+
+<details>
+<summary><strong>함께 볼 안내</strong></summary>
 
 ## 함께 볼 안내
 
@@ -52,6 +88,11 @@ DNS 필터링은 도메인 요청을 기준으로 작동합니다. 웹페이지 
 - [AdGuard VPN 사용법: 광고차단 앱과의 차이·함께 사용하기](adguard-vpn.ko.md)
 - [NordVPN 요금제 선택: 결제 기간·갱신·기기 수 안내](https://github.com/appguideplus/vpn-security-guides/blob/main/nordvpn.ko.md)
 - [Surfshark 요금제: Starter·One 선택과 기기 연결 안내](https://github.com/appguideplus/vpn-security-guides/blob/main/surfshark.ko.md)
+
+</details>
+
+<details>
+<summary><strong>출처와 확인일</strong></summary>
 
 ## 출처와 확인일
 
@@ -61,3 +102,11 @@ DNS 필터링은 도메인 요청을 기준으로 작동합니다. 웹페이지 
 내용 확인일: 2026-09-14. GitHub판 편집일: 2026-09-14.
 
 AppGuide+가 작성한 독립적인 이용 안내이며, 각 서비스의 공식 고객지원 문서는 아닙니다.
+
+</details>
+
+---
+
+[웹 안내로 이어가기](https://appguideplus.com/ko/adguard-dns/?utm_source=github) · [다른 안내 고르기](README.md)
+
+읽기 구성 정리: 2026-10-23.

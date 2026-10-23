@@ -1,8 +1,16 @@
+![AppGuide+ ADGUARD](cover.svg)
+
+[이 분야의 안내](README.md) · [AppGuide+](https://github.com/appguideplus/app-guides#readme)
+
 # AdGuard를 켜면 사이트가 안 열릴 때
 
 한 사이트의 문제인지, 여러 사이트의 공통 문제인지 나누고 설정을 하나씩 비교하세요. 변경 전 값을 기록하면 정상 상태로 되돌리기 쉽습니다.
 
-[AdGuard](adguard.ko.md) · [전체 가이드](README.md) · [웹에서 보기](https://appguideplus.com/ko/adguard/troubleshooting/)
+**[웹사이트에서 안내 보기 →](https://appguideplus.com/ko/adguard/troubleshooting/?utm_source=github)**
+
+일부 웹 안내에는 제휴 링크가 포함됩니다. 해당 링크를 통한 구매·가입으로 운영자가 수수료를 받을 수 있습니다. AppGuide+는 독립 가이드입니다.
+
+---
 
 ## 먼저 문제가 생기는 범위를 확인
 
@@ -10,11 +18,19 @@
 
 브라우저 확장과 데스크톱 앱을 함께 사용한다면 어느 제품이 실제로 필터링하는지 확인합니다. Browser Assistant만 설치된 상태와 앱이 실행 중인 상태는 다릅니다.
 
+<details>
+<summary><strong>그 사이트의 필터링을 비교</strong></summary>
+
 ## 그 사이트의 필터링을 비교
 
 신뢰하는 사이트에서만 해당 사이트의 필터링을 잠시 멈춰 비교하고 다시 원래 상태로 돌리세요. 악성 사이트 경고를 우회해서 접속하는 절차로 사용하지 마세요.
 
 최근 추가한 사용자 규칙이나 필터가 있다면 한 번에 하나씩 비교합니다. 여러 설정을 동시에 바꾸면 어떤 변경이 효과가 있었는지 알 수 없습니다.
+
+</details>
+
+<details>
+<summary><strong>광고가 남는 경우</strong></summary>
 
 ## 광고가 남는 경우
 
@@ -22,16 +38,31 @@
 
 브라우저 캐시나 다른 확장과의 충돌을 비교할 때도 기존 설정을 기록하세요. 모든 보안 기능을 계속 꺼 두는 방식으로 문제를 해결하지 마세요.
 
+</details>
+
+<details>
+<summary><strong>계속 문제가 생길 때</strong></summary>
+
 ## 계속 문제가 생길 때
 
 제품명, 운영체제, 앱·확장 버전, 문제가 생기는 주소와 재현 순서를 공식 지원에 전달하면 도움이 됩니다.
 
 화면을 공유할 때 계정 정보, 결제 내역, 개인 URL의 토큰은 가리세요. 오류 화면만으로 실제 개인정보를 함께 보낼 필요는 없습니다.
 
+</details>
+
+<details>
+<summary><strong>함께 볼 안내</strong></summary>
+
 ## 함께 볼 안내
 
 - [AdGuard 광고차단: 무료 확장 프로그램과 유료 앱 선택](adguard.ko.md)
 - [AdGuard 시작하기: 브라우저 확장과 앱을 고르는 순서](adguard-setup.ko.md)
+
+</details>
+
+<details>
+<summary><strong>출처와 확인일</strong></summary>
 
 ## 출처와 확인일
 
@@ -41,3 +72,11 @@
 내용 확인일: 2026-09-14. GitHub판 편집일: 2026-09-14.
 
 AppGuide+가 작성한 독립적인 이용 안내이며, 각 서비스의 공식 고객지원 문서는 아닙니다.
+
+</details>
+
+---
+
+[웹 안내로 이어가기](https://appguideplus.com/ko/adguard/troubleshooting/?utm_source=github) · [다른 안내 고르기](README.md)
+
+읽기 구성 정리: 2026-10-23.
